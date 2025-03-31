@@ -32,3 +32,7 @@ ul a:hover{
 img{
     width: 13em;
 }
+ul{
+    text-align: center;
+    list-style-type: none;
+}
