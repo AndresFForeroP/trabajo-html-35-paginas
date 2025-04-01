@@ -15,7 +15,7 @@ body{
     gap: 20px;
     margin: 20px auto;
 }
-.grid-item:first-child {
+.grid-item:first-child{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -54,11 +54,11 @@ body{
         margin-top: 20px;
     }
 }
-.grid-item img {
+.grid-item img{
     width: 100%;
     object-fit: cover;
 }
-.grid-item-box {
+.grid-item-box{
     color: rgb(123, 123, 126);
 }
 .grid-item{
