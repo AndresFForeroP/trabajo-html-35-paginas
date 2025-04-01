@@ -1,0 +1,46 @@
+*{
+    font-family: "Nunito Sans";
+}
+header{
+    display: grid;
+    grid-template-columns: 22em 10em;
+}
+header div:nth-child(1){
+    margin-top: 5em;
+    margin-left: 1em;
+}
+header div:nth-child(2){
+    margin-left: 5em;
+    margin-top: 4.8em;
+}
+header div h1{
+    font-size: 2.5em;
+}
+header div p{
+    color: #828282;
+    font-size: 1em;
+}
+header img{
+    width: 30em;
+}
+button{
+    font-size: 0.75em;
+    width: 8em;
+    height: 3em;
+    background-color: #252525;
+    color: white;
+    border: 1px solid #252525;
+    border-radius: 1em;
+}
+section{
+    border-radius: 1.5em;
+    width: 57em;
+    margin-top: 2em;
+    background-color: #252525;
+    display: grid;
+    grid-template-columns: 19em 19em 19em;
+}
+section div{
+    padding: 2em;
+    color: rgb(203, 203, 203);
+}
