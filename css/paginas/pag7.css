@@ -1,0 +1,84 @@
+*{
+    font-family: "Nunito Sans";
+}
+section{
+    display: grid;
+    grid-template-columns: 22em 22em 22em;
+}
+h3{
+    color: rgb(136, 136, 136);
+    font-weight: 600;
+    margin-bottom: -0.7em;
+}
+p{
+    color: rgb(87, 87, 87);
+}
+.imagen-inferior{
+    margin-top: 10em;
+    width: 18.5em;
+}
+.explosion{
+    transform: rotate(-5deg);
+    width: 9em;
+    position: absolute;
+    top: 9em;
+    left: 2.5em;
+}
+.estrella1{
+    width: 12em;
+    position: absolute;
+    top: 8.5em;
+    left: 11em;
+}
+.fondo{
+    width: 32em;
+    position: relative;
+    opacity: 80%;    
+    left: -6em;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 4em;
+    text-align: center;
+}
+.doscolumna{
+    margin-top: 4.5em;
+    margin-left: 4.5em;
+    position: absolute;
+    top: 1em;
+}
+.doscolumna p{
+    text-align: center;
+    font-size: 0.8em;
+}
+button{
+    margin-top: 1em;
+    margin-left: 3em;
+    font-size: 0.75em;
+    width: 8em;
+    height: 3em;
+    background-color: #252525;
+    color: white;
+    border: 1px solid #252525;
+    border-radius: 1em;
+}
+.imagen-superior{
+    width: 16.5em;
+    margin-top: 2em;
+}
+.dos{
+    margin-top: 7.8em;
+}
+.estrella2{
+    position: absolute;
+    width: 8em;
+    top: 21em;
+    left: 44em;
+}
+.sol{
+    position: absolute;
+    width: 6em;
+    top: 26em;
+    left: 53em;
+}
