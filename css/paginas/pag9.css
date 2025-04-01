@@ -1,0 +1,87 @@
+*{
+    font-family: "Nunito Sans";
+}
+header{
+    display: grid;
+    grid-template-columns: 20em 20em 20em;
+}
+header div img{
+    margin: 2em;
+    width: 17em;
+}
+button{
+    margin-top: 2em;
+    margin-left: 10em;
+    font-size: 0.75em;
+    width: 8em;
+    height: 3em;
+    background-color: #252525;
+    color: white;
+    border: 1px solid #252525;
+    border-radius: 1em;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+section{
+    display: grid;
+    grid-template-columns: repeat(5,13em);
+}
+section div p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 0.4em;
+}
+.rectangulo{
+    margin-left: 2em;
+    width: 8.4em;
+}
+.imagen1{
+    margin-top: 2.3em;
+    margin-left: 2em;
+    width: 9em;
+}
+.imagen2{
+    margin-left: -0.5em;
+    margin-top: 1.5em;
+    width: 11em;
+}
+.imagen3{
+    margin-left: -0.5em;
+    margin-top: 0.3em;
+    width: 11em;
+}
+.imagen4{
+    margin-left: -0.9em;
+    margin-top: 1.5em;
+    width: 12.5em;
+}
+.imagen5{
+    margin-left: 0.3em;
+    margin-top: 3em;
+    width: 11em;
+    margin-bottom: 0.5em;
+}
+.imagen6{
+    margin-left: 0.3em;
+    width: 11em;
+}
+.imagen7{
+    margin-top: 6.5em;
+    width: 8em;
+    margin-left: -0.5em;
+}
+.texto-final{
+    margin-left: 1.6em;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.rectangulo2{
+    width: 4.7em;
+    margin-left: 2.5em;
+}

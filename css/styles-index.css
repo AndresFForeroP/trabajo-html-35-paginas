@@ -35,3 +35,81 @@ ul{
     text-align: center;
     list-style-type: none;
 }
+.megumi1{
+    position:fixed;
+    top: 50%;
+    left: 0%;
+}
+.megumi1 img{
+    width: 10em;
+    opacity: 80%;
+}
+.megumi2 img{
+    width: 10em;
+    opacity: 80%;
+}
+.megumi2{
+    position: fixed;
+    top: 50%;
+    left: 90%;
+}
+.kazuma{
+    position: fixed;
+    left: 0%;
+    top: 25%;
+
+}
+.kazuma img{
+    width: 7.4em;
+    opacity: 70%;
+}
+.kazuma2{
+    position: fixed;
+    left: 90%;
+    top: 25%;
+
+}
+.kazuma2 img{
+    width: 7.4em;
+    opacity: 70%;
+}
+.aqua{
+    position: fixed;
+    left: 0%;
+    top: 0%;
+
+}
+.aqua img{
+    width: 7.5em;
+    opacity: 70%;
+}
+.aqua2{
+    position: fixed;
+    left: 90%;
+    top: 0%;
+
+}
+.aqua2 img{
+    width: 7.5em;
+    opacity: 70%;
+}
+.dark{
+    position: fixed;
+    left: 0%;
+    top: 76%;
+
+}
+.dark img{
+    width: 7.5em;
+    opacity: 70%;
+}
+.dark2{
+    position: fixed;
+    left: 90%;
+    top: 76%;
+
+}
+.dark2 img{
+    width: 7.5em;
+    opacity: 70%;
+}
