@@ -2,23 +2,62 @@
     font-family: "Nunito Sans";
 }
 header{
-    width: 55em;
+    width: 56em;
     background-color: #f2f2f2;
     display: grid;
-    grid-template-columns: 18em 20em;
+    grid-template-columns: 22em 20em;
 }
 header div img{
     margin-left: 6em;
-    width: 30em;
+    width: 26em;
 }
 header div:nth-child(1){
-    margin: auto;
-    border: 1px solid;
+    margin-top: 1em;
+    margin-left: 4em;
 }
 header div h1{
-    font-size: 2em;
-    text-align: center;
+    font-size: 2.5em;
+    text-align: left;
+    font-weight: 700;
+    margin-bottom: -0.15em;
 }
-header div p{
-    margin-left: 1em;
+button{
+    font-size: 0.75em;
+    width: 10em;
+    height: 3em;
+    background-color: #252525;
+    color: white;
+    border: 1px solid #252525;
+    border-radius: 2em;
+}
+section{
+    display: grid;
+    grid-template-columns: 10em 10em 10em 20em;
+}
+section div{
+    margin-left: 3.6em;
+    margin-top: -2.4em;
+}
+section div img{
+
+    width: 7.5em;
+}
+.div-final{
+    margin-top: -1.2em;
+}
+h3{
+    font-weight: 500;
+}
+.rectangulo{
+    width: 2.3em;
+    border: 1px solid;
+    margin-bottom: -1em;
+}
+.div-final p{
+    margin-top: -1em;
+    font-size: 0.8em;
+    color: #252525;
+}
+.img-frutas{
+    width: 17em;
 }
