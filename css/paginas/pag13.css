@@ -1,3 +1,25 @@
 *{
-    font-family: "Nunito Sans";
+    font-family: "Playfair Display", serif;
+}
+header{
+    display: grid;
+    grid-template-columns: 17em 23em;
+}
+button{
+    font-family: initial;
+    font-weight: 500;
+    font-size: 1em;
+    width: 8em;
+    height: 3em;
+    background-color: #a36a4f;
+    color: white;
+    border: 1px solid #a36a4f;
+    border-radius: 2em;
+}
+header p{
+    color: #363031;
+    margin-bottom: 1.4em;
+}
+header h1{
+    font-size: 2.5em;
 }
