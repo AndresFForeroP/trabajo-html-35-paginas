@@ -3,11 +3,11 @@
 }
 .contenedor{
     display: grid;
-    grid-template-columns: 33em 20em ;
+    grid-template-columns:  33vw 20vw ;
 }
 .div-img img{
-    width: 29em;
-    padding-top: 1em;
+    width: 29vw;
+    padding-top: 1vw;
 }
 .div-img{
     grid-column: 1;
@@ -21,16 +21,16 @@
     color: rgb(82, 76, 76);
 }
 .div-texto button{
-    font-size: 0.75em;
-    width: 8em;
-    height: 3em;
+    font-size: 0.75vw;
+    width: 8vw;
+    height: 3vw;
     background-color: #252525;
     color: white;
     border: 1px solid #252525;
-    border-radius: 1em;
+    border-radius: 1vw;
 }
 .div-texto h1:nth-child(4){
-    padding-top: 3.5em;
+    padding-top: 3.5vw;
     color: #7e7575;
     font-size: 1.2em;
     margin-bottom: -0.8em;
@@ -42,7 +42,7 @@
     margin-bottom: 2em;
 }
 .div-texto h1:nth-child(6){
-    font-size: 1.2em;
+    font-size: 1.2vw;
     color: #7e7575;
     margin-bottom: -0.8em;
 }

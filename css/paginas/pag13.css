@@ -3,7 +3,7 @@
 }
 header{
     display: grid;
-    grid-template-columns: 17em 23em;
+    grid-template-columns: 17em 23vw;
 }
 button{
     font-family: initial;
@@ -22,4 +22,8 @@ header p{
 }
 header h1{
     font-size: 2.5em;
+}
+header div img{
+    width: 22em;
+    margin-left: 4em;
 }

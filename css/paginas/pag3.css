@@ -3,19 +3,19 @@
 }
 section{
     display: grid;
-    grid-template-columns: 15em 15em 15em 15em ;
+    grid-template-columns: 15vw 15vw 15vw 15vw ;
 }
 .div-section div p:nth-child(1){
-    font-size: 1.5em;
+    font-size: 1.5vw;
     color: rgb(175, 175, 177);
     font-weight: 700;
 }
 h1{
-    font-size: 3.2em;
+    font-size: 3.2vw;
 }
 img{
-    margin-top: 1em;
-    width: 12.6em;
+    margin-top: 1vw;
+    width: 12.6vw;
 }
 p{
     margin: auto;
