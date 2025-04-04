@@ -4,8 +4,57 @@
 }
 body {
     background-color: #F8D696;
-
+    display: grid;
+    grid-template-columns:  50em 20em;
+    background-image: url(/img/pag/pag1/pag49/image.png);
+    background-repeat: no-repeat;
+    background-position-x: 48.5vw;
+    background-position-y: -4.8vw;
+    
 }
 .container {
-    background-image: url(/img/pag/pag1/pag49/image.png);
+    display: grid;
+    padding-top: 1em;
+
 }
+.img_corazon{
+    grid-column: 1;
+    grid-row: 1;
+}
+.img_corazon img{
+    width: 12vw;
+    padding-top: 2em;
+    padding-left: 10em;
+}
+.info h2{
+    font-size: 8vw;
+    margin: 0 0 2vw 10vw;
+    color:black;
+    font-weight: 900;
+
+}
+.info p{
+    font-family: monospace;
+    font-size: 2vw;
+    margin: 0 0 5vw 10vw ;
+    color:black;
+    font-weight: 100;
+    width: 42vw;
+}
+.info a{
+    font-size: 1.6vw;
+    margin-left: 9vw;
+    margin-top: 20px;
+    background-color: #000000;
+    color: white;
+    border: 1.1vw solid #000000;
+    border-radius: 10em;
+    text-decoration: none;
+    padding: 1% 3em;
+    font-weight: 100;
+    
+  
+    
+}
+
+
