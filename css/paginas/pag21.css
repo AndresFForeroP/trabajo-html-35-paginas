@@ -1,0 +1,36 @@
+*{
+    font-family: "Lato", sans-serif;
+}
+header{
+    display: grid;
+    grid-template-columns: 30em 15em 15em;
+}
+.div-izquierda{
+    margin-top: 2em;
+    margin-left: 2em;
+}
+.div-izquierda h1{
+    font-weight: 500;
+    font-size: 3em;
+}
+.div-izquierda p{
+    padding-right: 7em;
+    margin-bottom: 1.3em;
+}
+button{
+    font-size: 0.8em;
+    width: 10em;
+    height: 3em;
+    background-color: #252525;
+    color: white;
+    border: 1px solid #252525;
+    border-radius: 2em;
+}
+.div-derecha-i div{
+    display: grid;
+    grid-template-columns: 5em 10em;
+}
+.div-derecha-d div{
+    display: grid;
+    grid-template-columns: 5em 10em;
+}
